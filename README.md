@@ -29,7 +29,7 @@ Screenshot
 
 Links
 Solution URL: https://github.com/sanyadrian/newsletter
-Live Site URL: 
+Live Site URL: https://sanyadrian.github.io/newsletter/
 
 My process
 
