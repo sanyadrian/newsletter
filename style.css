@@ -2,7 +2,7 @@
 font-family: 'Roboto';
 src: 
     local('Roboto Regular'),
-    url('/assets/fonts/Roboto-Regular.ttf');
+    url('./assets/fonts/Roboto-Regular.ttf');
 font-weight: 400;
 }
 
@@ -10,7 +10,7 @@ font-weight: 400;
 font-family: 'Roboto';
 src: 
     local('Roboto Bold'),
-    url('/assets/fonts/Roboto-Bold.ttf');
+    url('./assets/fonts/Roboto-Bold.ttf');
 font-weight: 700;
 }
 
